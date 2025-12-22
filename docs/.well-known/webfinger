@@ -1,0 +1,9 @@
+{
+  "subject": "acct:$giskou@tziskou.net",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://euc1.auth.ac/auth/realms/tziskou"
+    }
+  ]
+}
